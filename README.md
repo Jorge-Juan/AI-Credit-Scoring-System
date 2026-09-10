@@ -29,3 +29,11 @@ Escenario: Auditoría de Multicolinealidad (Historia 1.1)
   Dado un dataset de 10.000 solicitudes de crédito
   Cuando se ejecute la matriz de correlación de Pearson entre variables explicativas
   Entonces se deben descartar variables con r > 0.85 y VIF > 10
+
+```
+
+---
+
+**Trazabilidad del Proyecto**
+* **Jira Workspace:** [Acceso al Tablero y Backlog Activo](https://jorgejuanmartindemiguel.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none)
+* **Metodología:** Scrum / PSPO I Framework
