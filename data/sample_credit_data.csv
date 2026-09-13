@@ -1,0 +1,13 @@
+applicant_id,annual_income,monthly_income_redundant,credit_score,debt_to_income,gender,age_group,historical_default,default_risk_score
+1001,45000,3750,720,0.22,F,unprotected,0,0.12
+1002,28000,2333,580,0.48,M,protected,0,0.51
+1003,85000,7083,810,0.15,F,unprotected,0,0.05
+1004,19000,1583,510,0.65,M,protected,1,0.78
+1005,38000,3166,640,0.35,F,protected,0,0.47
+1006,62000,5166,750,0.18,M,unprotected,0,0.18
+1007,24000,2000,560,0.52,F,protected,1,0.53
+1008,95000,7916,830,0.10,M,unprotected,0,0.02
+1009,31000,2583,610,0.41,F,protected,0,0.49
+1010,41000,3416,670,0.29,M,unprotected,0,0.30
+1011,18000,1500,490,0.70,F,protected,1,0.85
+1012,53000,4416,700,0.25,M,unprotected,0,0.22
