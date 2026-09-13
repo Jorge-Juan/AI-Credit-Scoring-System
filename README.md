@@ -31,7 +31,15 @@ Escenario: Auditoría de Multicolinealidad (Historia 1.1)
   Entonces se deben descartar variables con r > 0.85 y VIF > 10
 
 ```
+---
 
+**Métricas de Gestión de Proyectos y Gobernanza Operativa**
+
+* **Velocidad y Planificación:** 2 Sprints ejecutados al 100% de cumplimiento dentro del alcance temporal.
+* **Gestión del Riesgo:** Matriz RACI integrada y alineada con la normativa europea de IA (*EU AI Act*).
+* **Control Operativo:** Definición de SLAs de atención manual ($< 2$ horas) para casos de incertidumbre algorítmica.
+* **Documentación Ejecutiva:** Consultar el detalle de gobernanza y capacidad en `docs/OPERATIONAL_GOVERNANCE.md`.
+  
 ---
 
 **Trazabilidad del Proyecto**
